@@ -1,0 +1,7 @@
+management:
+  datasource:
+    hardcoded:
+      pennies: 100
+      nickels: 100
+      dimes: 100
+      quarters: 100
